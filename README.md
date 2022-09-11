@@ -6,7 +6,7 @@ This project was built by me using HTML, CSS, Bootstrap and JS. It will be added
 [Live Repl Deployment](https://weather-app-api.ray-xavier-2021.repl.co/)
 
 
-![Screenshot placeholder] (weather-app.png)
+![Screenshot placeholder] (../../../../../Pictures/Screenshots/weather-app.png)
 
 ## Technologies Used
 * HTML
@@ -17,10 +17,6 @@ This project was built by me using HTML, CSS, Bootstrap and JS. It will be added
 ## Installation
 No need to install any software, just open up index.html and run it
 
-
-7. Create another Heading-2
-- `## How to Use`
-- Description on How to use project
 
 ## How To Use ?
 No login required. Enter city or state of choice then click button.
